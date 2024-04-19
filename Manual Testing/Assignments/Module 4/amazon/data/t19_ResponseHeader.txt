@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Accept-Ranges: bytes
+Age: 26688
+cache-control: max-age=172800, public
+Content-Type: application/pkix-cert
+Date: Fri, 19 Apr 2024 06:02:49 GMT
+Etag: "5a286417-48f"
+expires: Sun, 21 Apr 2024 06:02:49 GMT
+last-modified: Wed, 06 Dec 2017 21:41:43 GMT
+Server: ECAcc (nag/990A)
+X-Cache: HIT
+Content-Length: 1167
+

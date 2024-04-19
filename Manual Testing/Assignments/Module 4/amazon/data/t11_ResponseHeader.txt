@@ -1,0 +1,18 @@
+HTTP/1.1 200 OK
+Content-Type: binary/octet-stream
+Content-Length: 1302
+Connection: keep-alive
+Last-Modified: Tue, 09 Apr 2024 12:29:11 GMT
+x-amz-server-side-encryption: AES256
+x-amz-version-id: LNe1zvA9CD.mOP3pSA.hDO7VO1lIWaUX
+Accept-Ranges: bytes
+Server: AmazonS3
+Date: Fri, 19 Apr 2024 02:44:12 GMT
+ETag: "55540a230bdab55187a841cfe1aa1545"
+Vary: Accept-Encoding
+X-Cache: Hit from cloudfront
+Via: 1.1 451968957b779fc02047a8b11b9efcf8.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: DEL54-P7
+X-Amz-Cf-Id: H_0ULhfeJ0kjfIpBBHIG8QCnJj8vfhkbO-kBWcxmjxiuzRM1ENJAQQ==
+Age: 11796
+

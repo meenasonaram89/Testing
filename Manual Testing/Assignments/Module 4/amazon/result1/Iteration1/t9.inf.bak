@@ -1,0 +1,25 @@
+[t9]
+FileName2=t7_6_x.UNK
+FileName5=t4_3_rootca1.UNK
+FileName4=t5_4_rootg2.UNK
+FileName7=t2_1_gtsr1.cer
+FileName6=t3_2_r2m01.cer
+FileName8=t1_0_gts1c3.cer
+RequestBodyFile=t9_RequestBody.txt
+ContentType=text/html
+URL1=http://crt.sectigo.com/McAfeeRSAOrganizationValidationSecureServerCA3.crt
+URL2=http://x.ss2.us/x.cer
+URL3=http://crt.r2m03.amazontrust.com/r2m03.cer
+ResponseHeaderFile=t9_ResponseHeader.txt
+URL4=http://crt.rootg2.amazontrust.com/rootg2.cer
+URL5=http://crt.rootca1.amazontrust.com/rootca1.cer
+URL6=http://crt.r2m01.amazontrust.com/r2m01.cer
+URL7=http://pki.goog/repo/certs/gtsr1.der
+URL8=http://pki.goog/repo/certs/gts1c3.der
+SnapshotXmlFile=snapshot_8.xml
+RequestHeaderFile=t9_RequestHeader.txt
+SaveSnapshotResources=1
+Total=8
+StepName=Url: gts1c3.der_6
+FileName1=t8_7_McAfeeRSAOrganizationValidationSecureServerCA3.cer
+FileName3=t6_5_r2m03.cer

@@ -1,0 +1,27 @@
+[t9]
+FileName2=t8_7_McAfeeRSAOrganizationValidationSecureServerCA3.cer
+FileName5=t5_4_rootg2.UNK
+FileName4=t6_5_r2m03.cer
+FileName7=t3_2_r2m01.cer
+FileName6=t4_3_rootca1.UNK
+FileName9=t1_0_gts1c3.cer
+FileName8=t2_1_gtsr1.cer
+RequestBodyFile=t9_RequestBody.txt
+ContentType=text/html
+URL1=http://cacerts.digicert.com/DigiCertTLSRSASHA2562020CA1-1.crt
+URL2=http://crt.sectigo.com/McAfeeRSAOrganizationValidationSecureServerCA3.crt
+URL3=http://x.ss2.us/x.cer
+ResponseHeaderFile=t9_ResponseHeader.txt
+URL4=http://crt.r2m03.amazontrust.com/r2m03.cer
+URL5=http://crt.rootg2.amazontrust.com/rootg2.cer
+URL6=http://crt.rootca1.amazontrust.com/rootca1.cer
+URL7=http://crt.r2m01.amazontrust.com/r2m01.cer
+URL8=http://pki.goog/repo/certs/gtsr1.der
+URL9=http://pki.goog/repo/certs/gts1c3.der
+SnapshotXmlFile=snapshot_9.xml
+RequestHeaderFile=t9_RequestHeader.txt
+SaveSnapshotResources=1
+Total=9
+StepName=Url: DigiCertTLSRSASHA2562020CA1-1.crt
+FileName1=t9_8_DigiCertTLSRSASHA2562020CA1-1.cer
+FileName3=t7_6_x.UNK

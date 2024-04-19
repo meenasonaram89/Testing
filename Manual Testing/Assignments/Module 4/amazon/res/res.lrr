@@ -1,0 +1,32 @@
+[Scenario]
+Product=HP LoadRunner Controller
+Version=12.50.0.0
+Path=Scenario1
+Subject=
+Result_file=C:\Users\meena\OneDrive\Documents\VuGen\Scripts\amazon\res\res.lrr
+Description=
+ResultName=res
+Time_Zone=-19800
+Start_time=1713510701
+Daylight_Bias=0
+Stop_time=1713510907
+[Configuration]
+Public_local=1
+Is_mix=1
+Is_runner_file=0
+Runner_file=
+[Running_mode]
+Start_reason=By command
+Stop_reason=By a user
+[Data Collection]
+FullData=1
+[Scenario_summary]
+Scenario Type=Manual Scenario
+Goal Profile Name=Schedule 1
+Mode=Scenario Scheduling
+Scenario Duration=Start 10 Vusers: 2 every 00:00:10 (HH:MM:SS); Run for 00:02:00 (HH:MM:SS); Stop all Vusers: 5 every 00:00:10 (HH:MM:SS)
+Load Behavior=Initialize each Vuser just before it runs
+[Scripts]
+amazon=C:\Users\meena\OneDrive\Documents\VuGen\Scripts\amazon\amazon.usr
+[Scripts_types]
+amazon=Multi+QTWeb

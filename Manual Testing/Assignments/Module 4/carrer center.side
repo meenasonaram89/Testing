@@ -1,0 +1,247 @@
+{
+  "id": "10b45a36-cfc3-4704-bff8-9a49d6ccd3db",
+  "version": "2.0",
+  "name": "carrer center",
+  "url": "https://careercenter.tops-int.com",
+  "tests": [{
+    "id": "ac87e442-90a1-4b0e-8f20-812f50f41f90",
+    "name": "carrer center*",
+    "commands": [{
+      "id": "438cad24-aa10-4c3d-8eb5-8500d8c07e2d",
+      "comment": "",
+      "command": "open",
+      "target": "/dashboard",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "3cf7ad6f-1798-4e7d-93ff-ebd3fd023385",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1552x832",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "0feb41f4-116e-4e64-aff9-43654537f0f2",
+      "comment": "",
+      "command": "click",
+      "target": "css=#course-dropdown > .pe-3",
+      "targets": [
+        ["css=#course-dropdown > .pe-3", "css:finder"],
+        ["xpath=//a[@id='course-dropdown']/span", "xpath:idRelative"],
+        ["xpath=//ul/div/div/div/a/span", "xpath:position"],
+        ["xpath=//span[contains(.,'Diploma In Software Testing And Automation')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "d90a2036-1ccb-4171-b387-4d751ce56185",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=Course Details",
+      "targets": [
+        ["linkText=Course Details", "linkText"],
+        ["css=.show > li:nth-child(1) > .dropdown-item", "css:finder"],
+        ["xpath=//a[contains(text(),'Course Details')]", "xpath:link"],
+        ["xpath=(//a[contains(@href, 'javascript:;')])[13]", "xpath:href"],
+        ["xpath=//div[2]/div/div/div/div/ul/div/div/div/ul/li/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Course Details')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "2d789066-cff1-4adf-b97e-498bdca7c8ed",
+      "comment": "",
+      "command": "click",
+      "target": "id=course-attendance-tab",
+      "targets": [
+        ["id=course-attendance-tab", "id"],
+        ["css=#course-attendance-tab", "css:finder"],
+        ["xpath=//button[@id='course-attendance-tab']", "xpath:attributes"],
+        ["xpath=//ul[@id='course-tab']/li[2]/button", "xpath:idRelative"],
+        ["xpath=//li[2]/button", "xpath:position"],
+        ["xpath=//button[contains(.,'Attendance')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "d75210b5-5b81-400c-9f5f-3c01c0c5432a",
+      "comment": "",
+      "command": "click",
+      "target": "id=course-progress-report-tab",
+      "targets": [
+        ["id=course-progress-report-tab", "id"],
+        ["css=#course-progress-report-tab", "css:finder"],
+        ["xpath=//button[@id='course-progress-report-tab']", "xpath:attributes"],
+        ["xpath=//ul[@id='course-tab']/li[4]/button", "xpath:idRelative"],
+        ["xpath=//li[4]/button", "xpath:position"],
+        ["xpath=//button[contains(.,'Progress Report')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "6eb55f0a-9028-4a2d-a837-54a4ed1598a5",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=Diploma In Software Testing And Automation",
+      "targets": [
+        ["linkText=Diploma In Software Testing And Automation", "linkText"],
+        ["css=.my-1 > #course-dropdown", "css:finder"],
+        ["xpath=(//a[@id='course-dropdown'])[2]", "xpath:attributes"],
+        ["xpath=(//a[contains(@href, 'javascript:;')])[14]", "xpath:href"],
+        ["xpath=//div[2]/div/div/div/div/ul/div/div/div/a", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "2b672b72-b854-47e8-a5e8-3258a954224b",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=Projects",
+      "targets": [
+        ["linkText=Projects", "linkText"],
+        ["css=.show > li:nth-child(2) > .dropdown-item", "css:finder"],
+        ["xpath=(//a[contains(text(),'Projects')])[2]", "xpath:link"],
+        ["xpath=(//a[contains(@href, 'javascript:;')])[16]", "xpath:href"],
+        ["xpath=//div[2]/div/div/div/div/ul/div/div/div/ul/li[2]/a", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "e1377f52-a22c-4087-80ed-da0b5239b734",
+      "comment": "",
+      "command": "click",
+      "target": "css=#course-dropdown > .pe-3",
+      "targets": [
+        ["css=#course-dropdown > .pe-3", "css:finder"],
+        ["xpath=//a[@id='course-dropdown']/span", "xpath:idRelative"],
+        ["xpath=//ul/div/div/div/a/span", "xpath:position"],
+        ["xpath=//span[contains(.,'Diploma In Software Testing And Automation')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "ec799adf-0753-401b-9010-22639caad2ff",
+      "comment": "",
+      "command": "click",
+      "target": "id=course-attendance-tab",
+      "targets": [
+        ["id=course-attendance-tab", "id"],
+        ["css=#course-attendance-tab", "css:finder"],
+        ["xpath=//button[@id='course-attendance-tab']", "xpath:attributes"],
+        ["xpath=//ul[@id='course-tab']/li[2]/button", "xpath:idRelative"],
+        ["xpath=//li[2]/button", "xpath:position"],
+        ["xpath=//button[contains(.,'Attendance')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "ef2eb957-177b-44ac-91b8-e1c6dffa7e94",
+      "comment": "",
+      "command": "click",
+      "target": "id=course-progress-report-tab",
+      "targets": [
+        ["id=course-progress-report-tab", "id"],
+        ["css=#course-progress-report-tab", "css:finder"],
+        ["xpath=//button[@id='course-progress-report-tab']", "xpath:attributes"],
+        ["xpath=//ul[@id='course-tab']/li[4]/button", "xpath:idRelative"],
+        ["xpath=//li[4]/button", "xpath:position"],
+        ["xpath=//button[contains(.,'Progress Report')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "0bb48bba-cb3f-4f8d-a63b-b0b6d2347e9a",
+      "comment": "",
+      "command": "click",
+      "target": "css=#course-dropdown > .pe-3",
+      "targets": [
+        ["css=#course-dropdown > .pe-3", "css:finder"],
+        ["xpath=//a[@id='course-dropdown']/span", "xpath:idRelative"],
+        ["xpath=//ul/div/div/div/a/span", "xpath:position"],
+        ["xpath=//span[contains(.,'Diploma In Software Testing And Automation')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "7f18666c-9590-48b6-ae4d-0aa1d108724b",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=Assignment",
+      "targets": [
+        ["linkText=Assignment", "linkText"],
+        ["css=.show > li:nth-child(3) > .dropdown-item", "css:finder"],
+        ["xpath=(//a[contains(text(),'Assignment')])[2]", "xpath:link"],
+        ["xpath=(//a[contains(@href, 'javascript:;')])[17]", "xpath:href"],
+        ["xpath=//div[2]/div/div/div/div/ul/div/div/div/ul/li[3]/a", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "7e4ef349-3350-4c9d-8abd-50418699f785",
+      "comment": "",
+      "command": "click",
+      "target": "id=course-progress-report-tab",
+      "targets": [
+        ["id=course-progress-report-tab", "id"],
+        ["css=#course-progress-report-tab", "css:finder"],
+        ["xpath=//button[@id='course-progress-report-tab']", "xpath:attributes"],
+        ["xpath=//ul[@id='course-tab']/li[4]/button", "xpath:idRelative"],
+        ["xpath=//li[4]/button", "xpath:position"],
+        ["xpath=//button[contains(.,'Progress Report')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "22497354-e964-49da-95a4-dfd7091a9c72",
+      "comment": "",
+      "command": "click",
+      "target": "css=#course-dropdown > .pe-3",
+      "targets": [
+        ["css=#course-dropdown > .pe-3", "css:finder"],
+        ["xpath=//a[@id='course-dropdown']/span", "xpath:idRelative"],
+        ["xpath=//ul/div/div/div/a/span", "xpath:position"],
+        ["xpath=//span[contains(.,'Diploma In Software Testing And Automation')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "06079beb-74cd-408b-a0c1-b3c804d4d975",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=Interview Questions",
+      "targets": [
+        ["linkText=Interview Questions", "linkText"],
+        ["css=.show > li:nth-child(5) > .dropdown-item", "css:finder"],
+        ["xpath=//a[contains(text(),'Interview Questions')]", "xpath:link"],
+        ["xpath=(//a[contains(@href, 'javascript:;')])[19]", "xpath:href"],
+        ["xpath=//div[2]/div/div/div/div/ul/div/div/div/ul/li[5]/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Interview Questions')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "88073468-6307-4099-bd63-5138cef7bb26",
+      "comment": "",
+      "command": "mouseOver",
+      "target": "linkText=Interview Questions",
+      "targets": [
+        ["linkText=Interview Questions", "linkText"],
+        ["css=.show > li:nth-child(5) > .dropdown-item", "css:finder"],
+        ["xpath=//a[contains(text(),'Interview Questions')]", "xpath:link"],
+        ["xpath=(//a[contains(@href, 'javascript:;')])[19]", "xpath:href"],
+        ["xpath=//div[2]/div/div/div/div/ul/div/div/div/ul/li[5]/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Interview Questions')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "18a6b934-0a5e-40c5-b48a-259b988a1522",
+      "comment": "",
+      "command": "mouseOut",
+      "target": "css=.my-1 li:nth-child(5) > .dropdown-item",
+      "targets": [
+        ["css=.my-1 li:nth-child(5) > .dropdown-item", "css:finder"],
+        ["xpath=//a[contains(text(),'Interview Questions')]", "xpath:link"],
+        ["xpath=(//a[contains(@href, 'javascript:;')])[19]", "xpath:href"],
+        ["xpath=//div[2]/div/div/div/div/ul/div/div/div/ul/li[5]/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Interview Questions')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "4d162f41-db30-4f6a-a693-4c154db5bd9a",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["ac87e442-90a1-4b0e-8f20-812f50f41f90"]
+  }],
+  "urls": ["https://careercenter.tops-int.com/"],
+  "plugins": []
+}

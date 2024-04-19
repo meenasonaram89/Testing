@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\meena\OneDrive\Documents\VuGen\Scripts\amazon
+-IC:\Program Files (x86)\HP\LoadRunner\include
+-ec:\users\meena\onedrive\documents\vugen\scripts\amazon\\logfile.log
+c:\users\meena\onedrive\documents\vugen\scripts\amazon\\combined_amazon.c
+c:\users\meena\onedrive\documents\vugen\scripts\amazon\\pre_cci.c

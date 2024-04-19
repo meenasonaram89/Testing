@@ -1,0 +1,413 @@
+[API Trapper      (4024:42d8)] Recording in 64-bit mode: C:\Users\meena\AppData\Local\Google\Chrome\Application\chrome.exe
+[API Trapper      ( b9c:3fe8)] Recording in 64-bit mode: C:\Users\meena\AppData\Local\Google\Chrome\Application\chrome.exe
+[API Trapper      (1f94: d6c)] Recording in 64-bit mode: C:\Users\meena\AppData\Local\Google\Chrome\Application\chrome.exe
+[Network Analyzer (1f94:3980)] ------------------------------------------------------------------------------------------
+[Network Analyzer (1f94:3980)] Load Network Traffic Analyzers:
+[Network Analyzer (1f94:3980)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer (1f94:3980)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter_x64.dll)
+[Network Analyzer (1f94:3980)]     + Network Analyzer: api_http_filter_x64.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer (1f94:3980)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter_x64.dll
+[Network Analyzer (1f94:3980)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer_x64.dll)
+[Network Analyzer (1f94:3980)]     + Network Analyzer: WebSocketAnalyzer_x64.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer (1f94:3980)]     Analyzer Module: local_server (value=)
+[Network Analyzer (1f94:3980)] ------------------------------------------------------------------------------------------
+[Network Analyzer (1f94:31e8)] Address lookup for Bharat = 192.168.1.35
+[Network Analyzer (1f94:3980)] Request Connection: Remote Server @ 2404:6800:4009:082E:0000:0000:0000:200A - 443  (Service=)  (Sid=  1)  PROXIED!
+[Network Analyzer (1f94:3980)] Address lookup for Bharat = 192.168.1.35
+[Network Analyzer (1f94:3980)] Request Connection: Remote Server @ 44.198.95.208:443   (Service=)  (Sid=  2)  PROXIED!
+[Network Analyzer (1f94:3980)] Request Connection: Remote Server @ 2404:6800:4003:0C1C:0000:0000:0000:0054 - 443  (Service=)  (Sid=  3)  PROXIED!
+[Network Analyzer (1f94:3980)] Address lookup for Bharat = 192.168.1.35
+[Network Analyzer (1f94:3980)] Request Connection: Remote Server @ 44.217.89.36:443   (Service=)  (Sid=  4)  PROXIED!
+[Network Analyzer (1f94:3980)] Request Connection: Remote Server @ 2600:9000:2650:4400:0008:B109:0E13:73E1 - 443  (Service=)  (Sid=  5)  PROXIED!
+[Network Analyzer (1f94:3980)] Address lookup for Bharat = 192.168.1.35
+[Network Analyzer (1f94:4274)]   (Sid:  1) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Net An. Error    (1f94:2788)]   (Sid:  2) SSL handshake with remote server Failed!
+[Network Analyzer (1f94:3980)] Request Connection: Remote Server @ 44.198.95.208:443   (Service=)  (Sid=  6)  PROXIED!
+[Network Analyzer (1f94:46ac)]   (Sid:  3) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Net An. Error    (1f94:5804)]   (Sid:  4) SSL handshake with remote server Failed!
+[Network Analyzer (1f94:3980)] Request Connection: Remote Server @ 2606:2800:021F:B505:516B:4186:98CD:0116 - 443  (Service=)  (Sid=  7)  PROXIED!
+[API Trapper      (2b74:598c)] Recording in 64-bit mode: C:\Users\meena\AppData\Local\Google\Chrome\Application\chrome.exe
+[Network Analyzer (1f94:4794)]   (Sid:  5) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Net An. Error    (1f94:46ac)]   (Sid:  3) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    (1f94:4274)]   (Sid:  1) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    (1f94:4794)]   (Sid:  5) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (1f94:3980)] Address lookup for Bharat = 192.168.1.35
+[Network Analyzer (1f94:3980)] Request Connection: Remote Server @ 44.217.89.36:443   (Service=)  (Sid=  8)  PROXIED!
+[Net An. Error    (1f94:33c0)]   (Sid:  6) SSL handshake with remote server Failed!
+[Network Analyzer (1f94:4a34)]   (Sid:  1) Connection Terminated (by Client)
+[Network Analyzer (1f94:4a34)]   (Sid:  3) Connection Terminated (by Client)
+[Network Analyzer (1f94:4a34)]   (Sid:  5) Connection Terminated (by Client)
+[Network Analyzer (1f94:3980)] Request Connection: Remote Server @ 2606:2800:021F:B505:516B:4186:98CD:0116 - 443  (Service=)  (Sid=  9)  PROXIED!
+[Network Analyzer (1f94:3980)] Address lookup for Bharat = 192.168.1.35
+[Net An. Error    (1f94:2224)]   (Sid:  7) SSL handshake with remote server Failed!
+[Network Analyzer (1f94:3980)] Request Connection: Remote Server @ 44.198.95.208:443   (Service=)  (Sid= 10)  PROXIED!
+[Network Analyzer (1f94:3980)] Address lookup for Bharat = 192.168.1.35
+[Network Analyzer (1f94:3980)] Request Connection: Remote Server @ 44.198.95.208:443   (Service=)  (Sid= 11)  PROXIED!
+[Net An. Error    (1f94: 14c)]   (Sid:  8) SSL handshake with remote server Failed!
+[Network Analyzer (1f94:3980)] Address lookup for Bharat = 192.168.1.35
+[Net An. Error    (1f94:2848)]   (Sid: 10) SSL handshake with remote server Failed!
+[Network Analyzer (1f94:3980)] Request Connection: Remote Server @ 44.217.89.36:443   (Service=)  (Sid= 12)  PROXIED!
+[Net An. Error    (1f94:4d14)]   (Sid: 11) SSL handshake with remote server Failed!
+[Network Analyzer (1f94:3980)] Request Connection: Remote Server @ 2606:2800:021F:B505:516B:4186:98CD:0116 - 443  (Service=)  (Sid= 13)  PROXIED!
+[Network Analyzer (1f94:3980)] Address lookup for Bharat = 192.168.1.35
+[Net An. Error    (1f94:2528)]   (Sid:  9) SSL handshake with remote server Failed!
+[Network Analyzer (1f94:3980)] Request Connection: Remote Server @ 44.198.95.208:443   (Service=)  (Sid= 14)  PROXIED!
+[Network Analyzer (1f94:3980)] Address lookup for Bharat = 192.168.1.35
+[Net An. Error    (1f94:2e64)]   (Sid: 12) SSL handshake with remote server Failed!
+[Network Analyzer (1f94:3980)] Request Connection: Remote Server @ 44.198.95.208:443   (Service=)  (Sid= 15)  PROXIED!
+[Net An. Error    (1f94: 564)]   (Sid: 14) SSL handshake with remote server Failed!
+[Network Analyzer (1f94:3980)] Request Connection: Remote Server @ 2404:6800:4009:0832:0000:0000:0000:2003 - 443  (Service=)  (Sid= 16)  PROXIED!
+[Network Analyzer (1f94:3980)] Request Connection: Remote Server @ 2404:6800:4002:081F:0000:0000:0000:2003 - 443  (Service=)  (Sid= 17)  PROXIED!
+[Net An. Error    (1f94:5274)]   (Sid: 13) SSL handshake with remote server Failed!
+[Network Analyzer (1f94:27fc)]   (Sid: 16) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1f94:3980)] Request Connection: Remote Server @ 2404:6800:4003:0C1A:0000:0000:0000:00BC - 5228  (Service=)  (Sid= 18)  PROXIED!
+[Net An. Error    (1f94:4724)]   (Sid: 15) SSL handshake with remote server Failed!
+[Network Analyzer (1f94:14b8)]   (Sid: 17) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1f94:4c0c)]   (Sid: 18) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1f94:3980)] Address lookup for Bharat = 192.168.1.35
+[Network Analyzer (1f94:3980)] Request Connection: Remote Server @ 34.194.40.244:443   (Service=)  (Sid= 19)  PROXIED!
+[Network Analyzer (1f94:3980)] Request Connection: Remote Server @ 2001:4860:4802:0032:0000:0000:0000:001D - 80  (Service=)  (Sid= 20)  PROXIED!
+[Network Analyzer (1f94:3980)] Address lookup for Bharat = 192.168.1.35
+[Network Analyzer (1f94:3980)] Request Connection: Remote Server @ 44.215.138.240:443   (Service=)  (Sid= 21)  PROXIED!
+[Net An. Error    (1f94:1d1c)]   (Sid: 19) SSL handshake with remote server Failed!
+[Network Analyzer (1f94:3980)] Address lookup for Bharat = 192.168.1.35
+[Network Analyzer (1f94:3980)] Request Connection: Remote Server @ 54.237.133.29:443   (Service=)  (Sid= 22)  PROXIED!
+[Web Request      (1f94:4a34)] "GET /repo/certs/gts1c3.der"   
+[Network Analyzer (1f94:4a34)]   (Sid: 20) Client -> Server @ : 236 bytes (Service=HTTP)
+[Network Analyzer (1f94:4a34)]   (Sid: 20) Server -> Client : 2043 bytes  (Service=HTTP)
+[Network Analyzer (1f94:5ae8)]   (Sid: 21) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1f94:3980)] Request Connection: Remote Server @ 2404:6800:4002:082D:0000:0000:0000:200A - 443  (Service=)  (Sid= 23)  PROXIED!
+[Web Request      (1f94:4a34)] "GET /repo/certs/gtsr1.der"   
+[Network Analyzer (1f94:4a34)]   (Sid: 20) Client -> Server @ : 235 bytes (Service=HTTP)
+[Network Analyzer (1f94:4a34)]   (Sid: 20) Server -> Client : 2084 bytes  (Service=HTTP)
+[Net An. Error    (1f94:5b24)]   (Sid: 22) SSL handshake with remote server Failed!
+[Network Analyzer (1f94:55bc)]   (Sid: 23) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Web Request      (1f94:4a34)] "GET /repo/certs/gts1c3.der"   
+[Network Analyzer (1f94:4a34)]   (Sid: 20) Client -> Server @ : 236 bytes (Service=HTTP)
+[Network Analyzer (1f94:4a34)]   (Sid: 20) Server -> Client : 1220 bytes  (Service=HTTP)
+[Network Analyzer (1f94:4a34)]   (Sid: 20) Server -> Client : 823 bytes  (Service=HTTP)
+[Network Analyzer (1f94:3980)] Address lookup for Bharat = 192.168.1.35
+[Network Analyzer (1f94:3980)] Request Connection: Remote Server @ 18.172.60.198:80   (Service=)  (Sid= 24)  PROXIED!
+[Network Analyzer (1f94:3980)] Request Connection: Remote Server @ 2404:6800:4002:080D:0000:0000:0000:200A - 443  (Service=)  (Sid= 25)  PROXIED!
+[Web Request      (1f94:4a34)] "GET /repo/certs/gtsr1.der"   
+[Network Analyzer (1f94:4a34)]   (Sid: 20) Client -> Server @ : 235 bytes (Service=HTTP)
+[Network Analyzer (1f94:4a34)]   (Sid: 20) Server -> Client : 2084 bytes  (Service=HTTP)
+[Net An. Error    (1f94:4c0c)]   (Sid: 18) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    (1f94:14b8)]   (Sid: 17) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    (1f94:27fc)]   (Sid: 16) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Web Request      (1f94:4a34)] "GET /repo/certs/gts1c3.der"   
+[Network Analyzer (1f94:4a34)]   (Sid: 20) Client -> Server @ : 236 bytes (Service=HTTP)
+[Network Analyzer (1f94:4a34)]   (Sid: 20) Server -> Client : 2043 bytes  (Service=HTTP)
+[Network Analyzer (1f94:5a88)]   (Sid: 25) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Web Request      (1f94:4a34)] "GET /repo/certs/gtsr1.der"   
+[Network Analyzer (1f94:4a34)]   (Sid: 20) Client -> Server @ : 235 bytes (Service=HTTP)
+[Network Analyzer (1f94:3980)] Address lookup for Bharat = 192.168.1.35
+[Network Analyzer (1f94:4a34)]   (Sid: 20) Server -> Client : 2084 bytes  (Service=HTTP)
+[Network Analyzer (1f94:4a34)]   (Sid: 16) Connection Terminated (by Client)
+[Network Analyzer (1f94:4a34)]   (Sid: 17) Connection Terminated (by Client)
+[Network Analyzer (1f94:4a34)]   (Sid: 18) Connection Terminated (by Client)
+[Web Request      (1f94:31e8)] "GET /r2m01.cer"   
+[Network Analyzer (1f94:31e8)]   (Sid: 24) Client -> Server @ : 283 bytes (Service=HTTP)
+[Network Analyzer (1f94:3980)] Request Connection: Remote Server @ 3.253.171.229:443   (Service=)  (Sid= 26)  PROXIED!
+[Network Analyzer (1f94:31e8)]   (Sid: 24) Server -> Client : 571 bytes  (Service=HTTP)
+[Network Analyzer (1f94:31e8)]   (Sid: 24) Server -> Client : 1122 bytes  (Service=HTTP)
+[Network Analyzer (1f94:5074)]   (Sid: 26) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1f94:3980)] Address lookup for Bharat = 192.168.1.35
+[Network Analyzer (1f94:3980)] Request Connection: Remote Server @ 52.95.121.195:443   (Service=)  (Sid= 27)  PROXIED!
+[Net An. Error    (1f94:55bc)]   (Sid: 23) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    (1f94:5a88)]   (Sid: 25) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (1f94:3980)] Address lookup for Bharat = 192.168.1.35
+[Network Analyzer (1f94:3980)] Request Connection: Remote Server @ 52.95.121.195:443   (Service=)  (Sid= 28)  PROXIED!
+[Network Analyzer (1f94:4ca8)]   (Sid: 27) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1f94:4a34)]   (Sid: 23) Connection Terminated (by Client)
+[Network Analyzer (1f94:4a34)]   (Sid: 25) Connection Terminated (by Client)
+[Network Analyzer (1f94:503c)]   (Sid: 28) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1f94:3980)] Address lookup for Bharat = 192.168.1.35
+[Network Analyzer (1f94:3980)] Request Connection: Remote Server @ 52.95.127.145:443   (Service=)  (Sid= 29)  PROXIED!
+[Network Analyzer (1f94:3980)] Address lookup for Bharat = 192.168.1.35
+[Network Analyzer (1f94:3980)] Request Connection: Remote Server @ 54.192.142.77:80   (Service=)  (Sid= 30)  PROXIED!
+[Network Analyzer (1f94:3980)] Address lookup for Bharat = 192.168.1.35
+[Network Analyzer (1f94:3980)] Request Connection: Remote Server @ 3.253.171.229:443   (Service=)  (Sid= 31)  PROXIED!
+[Network Analyzer (1f94:3980)] Address lookup for Bharat = 192.168.1.35
+[Network Analyzer (1f94: ff0)]   (Sid: 29) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1f94:3980)] Request Connection: Remote Server @ 52.95.121.195:443   (Service=)  (Sid= 32)  PROXIED!
+[Network Analyzer (1f94:3980)] Address lookup for Bharat = 192.168.1.35
+[Network Analyzer (1f94:3980)] Request Connection: Remote Server @ 52.95.121.195:443   (Service=)  (Sid= 33)  PROXIED!
+[Network Analyzer (1f94: d64)]   (Sid: 31) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Web Request      (1f94:31e8)] "GET /rootca1.cer"   
+[Network Analyzer (1f94:31e8)]   (Sid: 30) Client -> Server @ : 287 bytes (Service=HTTP)
+[Network Analyzer (1f94:31e8)]   (Sid: 30) Server -> Client : 1760 bytes  (Service=HTTP)
+[Network Analyzer (1f94:3980)] Request Connection: Remote Server @ 2404:6800:4009:0823:0000:0000:0000:200E - 443  (Service=)  (Sid= 34)  PROXIED!
+[Network Analyzer (1f94:2c3c)]   (Sid: 32) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1f94:4ea0)]   (Sid: 33) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1f94:3eb4)]   (Sid: 34) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[API Trapper      (3b40:49b8)] Recording in 64-bit mode: C:\Users\meena\AppData\Local\Google\Chrome\Application\chrome.exe
+[API Trapper      (420c: 9b8)] Recording in 64-bit mode: C:\Users\meena\AppData\Local\Google\Chrome\Application\chrome.exe
+[Network Analyzer (1f94:3980)] Address lookup for Bharat = 192.168.1.35
+[Network Analyzer (1f94:3980)] Request Connection: Remote Server @ 54.239.32.228:443   (Service=)  (Sid= 35)  PROXIED!
+[Network Analyzer (1f94:3980)] Address lookup for Bharat = 192.168.1.35
+[Network Analyzer (1f94:3980)] Request Connection: Remote Server @ 18.164.237.61:80   (Service=)  (Sid= 36)  PROXIED!
+[Network Analyzer (1f94:3630)]   (Sid: 35) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1f94:3980)] Address lookup for Bharat = 192.168.1.35
+[Network Analyzer (1f94:3980)] Request Connection: Remote Server @ 63.32.181.99:443   (Service=)  (Sid= 37)  PROXIED!
+[Web Request      (1f94:31e8)] "GET /rootg2.cer"   
+[Network Analyzer (1f94:31e8)]   (Sid: 36) Client -> Server @ : 285 bytes (Service=HTTP)
+[Net An. Error    (1f94:3eb4)]   (Sid: 34) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (1f94:31e8)]   (Sid: 36) Server -> Client : 1730 bytes  (Service=HTTP)
+[Network Analyzer (1f94:14bc)]   (Sid: 37) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1f94:4a34)]   (Sid: 34) Connection Terminated (by Client)
+[Network Analyzer (1f94:3980)] Address lookup for Bharat = 192.168.1.35
+[Network Analyzer (1f94:3980)] Request Connection: Remote Server @ 18.66.63.88:443   (Service=)  (Sid= 38)  PROXIED!
+[Network Analyzer (1f94:3980)] Address lookup for Bharat = 192.168.1.35
+[Network Analyzer (1f94:3980)] Request Connection: Remote Server @ 54.239.32.228:443   (Service=)  (Sid= 39)  PROXIED!
+[Network Analyzer (1f94:3980)] Address lookup for Bharat = 192.168.1.35
+[API Trapper      (348c: e6c)] Recording in 64-bit mode: C:\windows\system32\cmd.exe
+[API Trapper      (13c4:3fd8)] Recording in 64-bit mode: C:\windows\system32\cmd.exe
+[Net An. Error    (1f94:462c)]   (Sid: 38) SSL handshake with remote server Failed!
+[API Trapper      (2c4c:5a3c)] Recording in 64-bit mode: C:\Program Files\McAfee\wps\1.16.194.1\extnhost\mc-extn-browserhost.exe
+[API Trapper      (4a50:27f8)] Recording in 64-bit mode: C:\Program Files\McAfee\WebAdvisor\browserhost.exe
+[Network Analyzer (1f94:3980)] Request Connection: Remote Server @ 54.239.32.228:443   (Service=)  (Sid= 40)  PROXIED!
+[Network Analyzer (1f94:3980)] Address lookup for Bharat = 192.168.1.35
+[Network Analyzer (1f94:2bdc)]   (Sid: 39) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1f94:3980)] Request Connection: Remote Server @ 34.249.3.27:443   (Service=)  (Sid= 41)  PROXIED!
+[Network Analyzer (1f94:3980)] Request Connection: Remote Server @ 2404:6800:4009:0826:0000:0000:0000:2003 - 443  (Service=)  (Sid= 42)  PROXIED!
+[Network Analyzer (1f94:3980)] Address lookup for Bharat = 192.168.1.35
+[Network Analyzer (1f94:3980)] Request Connection: Remote Server @ 54.239.32.228:443   (Service=)  (Sid= 43)  PROXIED!
+[Network Analyzer (1f94:3980)] Address lookup for Bharat = 192.168.1.35
+[Network Analyzer (1f94:115c)]   (Sid: 40) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1f94:3980)] Request Connection: Remote Server @ 54.239.32.228:443   (Service=)  (Sid= 44)  PROXIED!
+[Network Analyzer (1f94:3980)] Address lookup for Bharat = 192.168.1.35
+[Net An. Error    (1f94:3f84)]   (Sid: 41) SSL handshake with remote server Failed!
+[Network Analyzer (1f94:3980)] Request Connection: Remote Server @ 54.239.32.228:443   (Service=)  (Sid= 45)  PROXIED!
+[Network Analyzer (1f94:2fec)]   (Sid: 42) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1f94:5928)]   (Sid: 43) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1f94:3980)] Address lookup for Bharat = 192.168.1.35
+[Network Analyzer (1f94:2738)]   (Sid: 44) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1f94:3980)] Request Connection: Remote Server @ 99.86.51.238:80   (Service=)  (Sid= 46)  PROXIED!
+[Network Analyzer (1f94:3980)] Address lookup for Bharat = 192.168.1.35
+[Network Analyzer (1f94:3378)]   (Sid: 45) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1f94:3980)] Request Connection: Remote Server @ 18.164.237.73:443   (Service=)  (Sid= 47)  PROXIED!
+[Network Analyzer (1f94:3980)] Request Connection: Remote Server @ 2404:6800:4003:0C1A:0000:0000:0000:00BC - 443  (Service=)  (Sid= 48)  PROXIED!
+[Net An. Error    (1f94:5ae8)]   (Sid: 21) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Web Request      (1f94:31e8)] "GET /r2m03.cer"   
+[Network Analyzer (1f94:31e8)]   (Sid: 46) Client -> Server @ : 283 bytes (Service=HTTP)
+[Network Analyzer (1f94:31e8)]   (Sid: 21) Connection Terminated (by Client)
+[Network Analyzer (1f94:3980)] Address lookup for Bharat = 192.168.1.35
+[Network Analyzer (1f94:31e8)]   (Sid: 46) Server -> Client : 570 bytes  (Service=HTTP)
+[Net An. Error    (1f94:1090)]   (Sid: 47) SSL handshake with remote server Failed!
+[Network Analyzer (1f94:31e8)]   (Sid: 46) Server -> Client : 1122 bytes  (Service=HTTP)
+[Network Analyzer (1f94:3980)] Request Connection: Remote Server @ 52.95.121.195:443   (Service=)  (Sid= 49)  PROXIED!
+[Network Analyzer (1f94:3980)] Address lookup for Bharat = 192.168.1.35
+[Network Analyzer (1f94:3980)] Request Connection: Remote Server @ 44.198.95.208:443   (Service=)  (Sid= 50)  PROXIED!
+[Network Analyzer (1f94:3398)]   (Sid: 48) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1f94:3980)] Request Connection: Remote Server @ 2600:9000:2244:2600:001F:C49F:CDC0:0021 - 443  (Service=)  (Sid= 51)  PROXIED!
+[Net An. Error    (1f94:3398)]   (Sid: 48) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (1f94: c4c)]   (Sid: 49) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Net An. Error    (1f94:3898)]   (Sid: 50) SSL handshake with remote server Failed!
+[Network Analyzer (1f94:4a34)]   (Sid: 48) Connection Terminated (by Client)
+[Network Analyzer (1f94:3980)] Address lookup for Bharat = 192.168.1.35
+[Network Analyzer (1f94:3a68)]   (Sid: 51) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1f94:3980)] Request Connection: Remote Server @ 44.198.95.208:443   (Service=)  (Sid= 52)  PROXIED!
+[Network Analyzer (1f94:3980)] Address lookup for Bharat = 192.168.1.35
+[Network Analyzer (1f94:3980)] Request Connection: Remote Server @ 44.198.95.208:443   (Service=)  (Sid= 53)  PROXIED!
+[Net An. Error    (1f94: 548)]   (Sid: 52) SSL handshake with remote server Failed!
+[Network Analyzer (1f94:3980)] Address lookup for Bharat = 192.168.1.35
+[Network Analyzer (1f94:3980)] Request Connection: Remote Server @ 52.84.206.106:80   (Service=)  (Sid= 54)  PROXIED!
+[Net An. Error    (1f94:5074)]   (Sid: 26) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    (1f94:2fec)]   (Sid: 42) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    (1f94:416c)]   (Sid: 53) SSL handshake with remote server Failed!
+[Network Analyzer (1f94:31e8)]   (Sid: 26) Connection Terminated (by Client)
+[Web Request      (1f94:31e8)] "GET /x.cer"   
+[Network Analyzer (1f94:31e8)]   (Sid: 54) Client -> Server @ : 262 bytes (Service=HTTP)
+[Network Analyzer (1f94:31e8)]   (Sid: 54) Server -> Client : 1888 bytes  (Service=HTTP)
+[Network Analyzer (1f94:4a34)]   (Sid: 42) Connection Terminated (by Client)
+[Net An. Error    (1f94: ff0)]   (Sid: 29) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    (1f94: d64)]   (Sid: 31) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    (1f94:3630)]   (Sid: 35) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    (1f94:2bdc)]   (Sid: 39) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    (1f94:115c)]   (Sid: 40) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    (1f94:2738)]   (Sid: 44) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    (1f94:5928)]   (Sid: 43) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    (1f94:3378)]   (Sid: 45) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    (1f94:503c)]   (Sid: 28) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    (1f94:2c3c)]   (Sid: 32) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    (1f94:4ea0)]   (Sid: 33) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    (1f94:4ca8)]   (Sid: 27) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    (1f94: c4c)]   (Sid: 49) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    (1f94:14bc)]   (Sid: 37) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    (1f94:3a68)]   (Sid: 51) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (1f94:3980)] Address lookup for Bharat = 192.168.1.35
+[Network Analyzer (1f94:31e8)]   (Sid: 27) Connection Terminated (by Server)
+[Network Analyzer (1f94:31e8)]   (Sid: 28) Connection Terminated (by Server)
+[Network Analyzer (1f94:31e8)]   (Sid: 29) Connection Terminated (by Server)
+[Network Analyzer (1f94:31e8)]   (Sid: 31) Connection Terminated (by Server)
+[Network Analyzer (1f94:31e8)]   (Sid: 32) Connection Terminated (by Server)
+[Network Analyzer (1f94:31e8)]   (Sid: 33) Connection Terminated (by Server)
+[Network Analyzer (1f94:31e8)]   (Sid: 35) Connection Terminated (by Server)
+[Network Analyzer (1f94:3980)] Request Connection: Remote Server @ 52.24.33.85:443   (Service=)  (Sid= 55)  PROXIED!
+[Network Analyzer (1f94:4a34)]   (Sid: 51) Connection Terminated (by Client)
+[Network Analyzer (1f94:3980)] Address lookup for Bharat = 192.168.1.35
+[Network Analyzer (1f94:3980)] Request Connection: Remote Server @ 18.66.78.58:443   (Service=)  (Sid= 56)  PROXIED!
+[Network Analyzer (1f94:3980)] Address lookup for Bharat = 192.168.1.35
+[Network Analyzer (1f94:31e8)]   (Sid: 39) Connection Terminated (by Server)
+[Network Analyzer (1f94:3980)] Request Connection: Remote Server @ 52.95.127.145:443   (Service=)  (Sid= 57)  PROXIED!
+[Network Analyzer (1f94:31e8)]   (Sid: 37) Connection Terminated (by Client)
+[Network Analyzer (1f94:31e8)]   (Sid: 40) Connection Terminated (by Client)
+[Network Analyzer (1f94:31e8)]   (Sid: 43) Connection Terminated (by Client)
+[Network Analyzer (1f94:31e8)]   (Sid: 44) Connection Terminated (by Client)
+[Network Analyzer (1f94:31e8)]   (Sid: 45) Connection Terminated (by Client)
+[Network Analyzer (1f94:31e8)]   (Sid: 49) Connection Terminated (by Client)
+[Network Analyzer (1f94:1500)]   (Sid: 55) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1f94:3980)] Request Connection: Remote Server @ 2600:9000:2244:2600:001F:C49F:CDC0:0021 - 443  (Service=)  (Sid= 58)  PROXIED!
+[Net An. Error    (1f94:1500)]   (Sid: 55) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    (1f94: 150)]   (Sid: 56) SSL handshake with remote server Failed!
+[Network Analyzer (1f94:3980)] Address lookup for Bharat = 192.168.1.35
+[Network Analyzer (1f94:3980)] Request Connection: Remote Server @ 3.6.211.252:443   (Service=)  (Sid= 59)  PROXIED!
+[Network Analyzer (1f94:31e8)]   (Sid: 55) Connection Terminated (by Client)
+[Network Analyzer (1f94:454c)]   (Sid: 57) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Net An. Error    (1f94:454c)]   (Sid: 57) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (1f94:3980)] Address lookup for Bharat = 192.168.1.35
+[Network Analyzer (1f94:4b30)]   (Sid: 59) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1f94:3980)] Request Connection: Remote Server @ 63.32.181.99:443   (Service=)  (Sid= 60)  PROXIED!
+[Network Analyzer (1f94:3980)] Address lookup for Bharat = 192.168.1.35
+[Network Analyzer (1f94:47a8)]   (Sid: 58) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1f94:31e8)]   (Sid: 57) Connection Terminated (by Client)
+[Network Analyzer (1f94:3980)] Request Connection: Remote Server @ 44.215.138.240:443   (Service=)  (Sid= 61)  PROXIED!
+[Net An. Error    (1f94:47a8)]   (Sid: 58) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (1f94:3980)] Address lookup for Bharat = 192.168.1.35
+[Network Analyzer (1f94:3ce4)]   (Sid: 60) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1f94:3980)] Request Connection: Remote Server @ 63.32.181.99:443   (Service=)  (Sid= 62)  PROXIED!
+[Network Analyzer (1f94:3980)] Address lookup for Bharat = 192.168.1.35
+[Network Analyzer (1f94:4a34)]   (Sid: 58) Connection Terminated (by Client)
+[Network Analyzer (1f94:3980)] Request Connection: Remote Server @ 63.32.181.99:443   (Service=)  (Sid= 63)  PROXIED!
+[Net An. Error    (1f94:3ce4)]   (Sid: 60) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (1f94:2a7c)]   (Sid: 61) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1f94:56e4)]   (Sid: 62) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1f94:3980)] Request Connection: Remote Server @ 2A04:4E42:0042:0000:0000:0000:0000:0307 - 443  (Service=)  (Sid= 64)  PROXIED!
+[Network Analyzer (1f94:54bc)]   (Sid: 63) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1f94:3980)] Request Connection: Remote Server @ 2606:4700:8392:C460:0739:0004:1EDC:25E4 - 80  (Service=)  (Sid= 65)  PROXIED!
+[Net An. Error    (1f94:56e4)]   (Sid: 62) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    (1f94:54bc)]   (Sid: 63) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (1f94:3980)] Address lookup for Bharat = 192.168.1.35
+[Net An. Error    (1f94:130c)]   (Sid: 64) SSL handshake with remote server Failed!
+[Network Analyzer (1f94:3980)] Request Connection: Remote Server @ 63.32.181.99:443   (Service=)  (Sid= 66)  PROXIED!
+[Network Analyzer (1f94:3980)] Address lookup for Bharat = 192.168.1.35
+[Network Analyzer (1f94:31e8)]   (Sid: 60) Connection Terminated (by Client)
+[Network Analyzer (1f94:31e8)]   (Sid: 62) Connection Terminated (by Client)
+[Network Analyzer (1f94:31e8)]   (Sid: 63) Connection Terminated (by Client)
+[Web Request      (1f94:4a34)] "GET /McAfeeRSAOrganizationValidationSecureServerCA3.crt"   
+[Network Analyzer (1f94:4a34)]   (Sid: 65) Client -> Server @ : 314 bytes (Service=HTTP)
+[Network Analyzer (1f94:47ec)]   (Sid: 66) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1f94:4a34)]   (Sid: 65) Server -> Client : 2149 bytes  (Service=HTTP)
+[User action                 ] Pausing...  [Network Analyzer (1f94:3980)] Address lookup for Bharat = 192.168.1.35
+[Network Analyzer (1f94:3980)] Request Connection: Remote Server @ 52.95.122.73:443   (Service=)  (Sid= 81)  PROXIED!
+[Network Analyzer (1f94:3980)] Address lookup for Bharat = 192.168.1.35
+[Net An. Error    (1f94:2c74)]   (Sid: 77) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (1f94:3980)] Request Connection: Remote Server @ 52.211.60.88:443   (Service=)  (Sid= 82)  PROXIED!
+[Network Analyzer (1f94:3980)] Address lookup for Bharat = 192.168.1.35
+[Network Analyzer (1f94:3980)] Request Connection: Remote Server @ 52.211.60.88:443   (Service=)  (Sid= 83)  PROXIED!
+[Network Analyzer (1f94:3980)] Address lookup for Bharat = 192.168.1.35
+[Network Analyzer (1f94:58a8)]   (Sid: 81) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1f94:3980)] Request Connection: Remote Server @ 52.211.60.88:443   (Service=)  (Sid= 84)  PROXIED!
+[Network Analyzer (1f94:3980)] Request Connection: Remote Server @ 2600:9000:256E:2000:0008:B109:0E13:73E1 - 443  (Service=)  (Sid= 85)  PROXIED!
+[Net An. Error    (1f94:4e50)]   (Sid: 79) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    (1f94:16f8)]   (Sid: 80) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    (1f94:58a8)]   (Sid: 81) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (1f94:3980)] Address lookup for Bharat = 192.168.1.35
+[Web Request      (1f94:4a34)] "GET /repo/certs/gts1c3.der"   
+[Network Analyzer (1f94:4a34)]   (Sid: 20) Client -> Server @ : 236 bytes (Service=HTTP)
+[Network Analyzer (1f94:4a34)]   (Sid: 20) Server -> Client : 1220 bytes  (Service=HTTP)
+[Network Analyzer (1f94:4a34)]   (Sid: 20) Server -> Client : 821 bytes  (Service=HTTP)
+[Network Analyzer (1f94:4e94)]   (Sid: 85) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1f94:3980)] Request Connection: Remote Server @ 52.95.123.241:443   (Service=)  (Sid= 86)  PROXIED!
+[Network Analyzer (1f94:29c0)]   (Sid: 82) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1f94:3980)] Request Connection: Remote Server @ 2001:4860:4802:0032:0000:0000:0000:001D - 80  (Service=)  (Sid= 87)  PROXIED!
+[Network Analyzer (1f94:3980)] Address lookup for Bharat = 192.168.1.35
+[Network Analyzer (1f94:3980)] Request Connection: Remote Server @ 52.211.60.88:443   (Service=)  (Sid= 88)  PROXIED!
+[Net An. Error    (1f94:29c0)]   (Sid: 82) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Web Request      (1f94:4a34)] "GET /repo/certs/gtsr1.der"   
+[Network Analyzer (1f94:4a34)]   (Sid: 20) Client -> Server @ : 235 bytes (Service=HTTP)
+[Network Analyzer (1f94:4a34)]   (Sid: 20) Server -> Client : 2085 bytes  (Service=HTTP)
+[Network Analyzer (1f94:3aa4)]   (Sid: 83) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1f94:31e8)]   (Sid: 77) Connection Terminated (by Client)
+[Network Analyzer (1f94:31e8)]   (Sid: 79) Connection Terminated (by Client)
+[Network Analyzer (1f94:31e8)]   (Sid: 80) Connection Terminated (by Client)
+[Network Analyzer (1f94:4a4c)]   (Sid: 84) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1f94:31e8)]   (Sid: 81) Connection Terminated (by Client)
+[Network Analyzer (1f94:31e8)]   (Sid: 82) Connection Terminated (by Client)
+[Network Analyzer (1f94:4ea4)]   (Sid: 86) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1f94:552c)]   (Sid: 88) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1f94:3980)] Address lookup for Bharat = 192.168.1.35
+[Network Analyzer (1f94:3980)] Request Connection: Remote Server @ 152.195.38.76:80   (Service=)  (Sid= 89)  PROXIED!
+[Network Analyzer (1f94:3980)] Address lookup for Bharat = 192.168.1.35
+[Network Analyzer (1f94:3980)] Request Connection: Remote Server @ 152.195.38.76:80   (Service=)  (Sid= 90)  PROXIED!
+[Network Analyzer (1f94:3980)] Address lookup for Bharat = 192.168.1.35
+[Net An. Error    (1f94:3aa4)]   (Sid: 83) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    (1f94:4a4c)]   (Sid: 84) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    (1f94:4ea4)]   (Sid: 86) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    (1f94:552c)]   (Sid: 88) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    (1f94:3394)]   (Sid: 73) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Web Request      (1f94:31e8)] "GET /DigiCertTLSRSASHA2562020CA1-1.crt"   
+[Network Analyzer (1f94:31e8)]   (Sid: 89) Client -> Server @ : 302 bytes (Service=HTTP)
+[Web Request      (1f94:4a34)] "GET /repo/certs/gts1c3.der"   
+[Network Analyzer (1f94:4a34)]   (Sid: 20) Client -> Server @ : 236 bytes (Service=HTTP)
+[Web Request      (1f94:31e8)] "GET /DigiCertGlobalCAG2.crt"   
+[Network Analyzer (1f94:31e8)]   (Sid: 90) Client -> Server @ : 291 bytes (Service=HTTP)
+[Network Analyzer (1f94:4a34)]   (Sid: 73) Connection Terminated (by Server)
+[Network Analyzer (1f94:4a34)]   (Sid: 20) Server -> Client : 2041 bytes  (Service=HTTP)
+[Network Analyzer (1f94:31e8)]   (Sid: 89) Server -> Client : 1554 bytes  (Service=HTTP)
+[Network Analyzer (1f94:31e8)]   (Sid: 90) Server -> Client : 1503 bytes  (Service=HTTP)
+[Network Analyzer (1f94:3980)] Request Connection: Remote Server @ 52.211.60.88:443   (Service=)  (Sid= 91)  PROXIED!
+[Network Analyzer (1f94:3980)] Address lookup for Bharat = 192.168.1.35
+[Network Analyzer (1f94:3980)] Request Connection: Remote Server @ 52.95.122.73:443   (Service=)  (Sid= 92)  PROXIED!
+[Web Request      (1f94:4a34)] "GET /repo/certs/gtsr1.der"   
+[Network Analyzer (1f94:4a34)]   (Sid: 20) Client -> Server @ : 235 bytes (Service=HTTP)
+[Web Request      (1f94:31e8)] "GET /DigiCertGlobalRootCA.crt"   
+[Net An. Error    (1f94:4e94)]   (Sid: 85) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (1f94:31e8)]   (Sid: 90) Client -> Server @ : 374 bytes (Service=HTTP)
+[Network Analyzer (1f94:4a34)]   (Sid: 20) Server -> Client : 2085 bytes  (Service=HTTP)
+[Net An. Error    (1f94:3280)]   (Sid: 78) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (1f94:4a34)]   (Sid: 78) Connection Terminated (by Server)
+[Network Analyzer (1f94:31e8)]   (Sid: 90) Server -> Client : 287 bytes  (Service=HTTP)
+[Network Analyzer (1f94:3980)] Address lookup for Bharat = 192.168.1.35
+[Network Analyzer (1f94:31e8)]   (Sid: 83) Connection Terminated (by Client)
+[Network Analyzer (1f94:31e8)]   (Sid: 84) Connection Terminated (by Client)
+[Network Analyzer (1f94:31e8)]   (Sid: 86) Connection Terminated (by Client)
+[Network Analyzer (1f94:31e8)]   (Sid: 88) Connection Terminated (by Client)
+[Network Analyzer (1f94:3f90)]   (Sid: 91) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1f94:3980)] Request Connection: Remote Server @ 52.211.60.88:443   (Service=)  (Sid= 93)  PROXIED!
+[Net An. Error    (1f94:3f90)]   (Sid: 91) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (1f94:4a34)]   (Sid: 85) Connection Terminated (by Client)
+[Network Analyzer (1f94:3980)] Address lookup for Bharat = 192.168.1.35
+[Network Analyzer (1f94:3980)] Request Connection: Remote Server @ 13.126.70.76:443   (Service=)  (Sid= 94)  PROXIED!
+[Network Analyzer (1f94:3980)] Address lookup for Bharat = 192.168.1.35
+[Network Analyzer (1f94:3acc)]   (Sid: 92) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1f94:3980)] Request Connection: Remote Server @ 52.211.60.88:443   (Service=)  (Sid= 95)  PROXIED!
+[Network Analyzer (1f94:3980)] Address lookup for Bharat = 192.168.1.35
+[Network Analyzer (1f94:31e8)]   (Sid: 91) Connection Terminated (by Client)
+[Network Analyzer (1f94:3980)] Request Connection: Remote Server @ 52.211.60.88:443   (Service=)  (Sid= 96)  PROXIED!
+[Network Analyzer (1f94:3980)] Address lookup for Bharat = 192.168.1.35
+[Network Analyzer (1f94:300c)]   (Sid: 93) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1f94:3980)] Request Connection: Remote Server @ 52.211.60.88:443   (Service=)  (Sid= 97)  PROXIED!
+[Network Analyzer (1f94:3980)] Address lookup for Bharat = 192.168.1.35
+[Network Analyzer (1f94: 874)]   (Sid: 94) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1f94:3980)] Request Connection: Remote Server @ 52.211.60.88:443   (Service=)  (Sid= 98)  PROXIED!
+[Net An. Error    (1f94:3bcc)]   (Sid: 71) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    (1f94:3acc)]   (Sid: 92) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    (1f94:300c)]   (Sid: 93) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    (1f94: 874)]   (Sid: 94) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (1f94:3980)] Address lookup for Bharat = 192.168.1.35
+[Network Analyzer (1f94:478c)]   (Sid: 95) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1f94:3980)] Request Connection: Remote Server @ 52.95.123.241:443   (Service=)  (Sid= 99)  PROXIED!
+[Net An. Error    (1f94:478c)]   (Sid: 95) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (1f94:329c)]   (Sid: 96) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1f94:31e8)]   (Sid: 92) Connection Terminated (by Client)
+[Network Analyzer (1f94:31e8)]   (Sid: 93) Connection Terminated (by Client)
+[Network Analyzer (1f94:31e8)]   (Sid: 94) Connection Terminated (by Client)
+[Network Analyzer (1f94:3980)] Address lookup for Bharat = 192.168.1.35
+[Network Analyzer (1f94:31e8)]   (Sid: 95) Connection Terminated (by Client)
+[Network Analyzer (1f94:4a34)]   (Sid: 71) Connection Terminated (by Server)
+[Network Analyzer (1f94:5afc)]   (Sid: 97) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1f94:5b64)]   (Sid: 98) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1f94:5094)]   (Sid: 99) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[User action                 ] Pausing...  

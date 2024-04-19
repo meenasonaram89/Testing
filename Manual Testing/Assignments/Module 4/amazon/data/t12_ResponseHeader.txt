@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+Date: Fri, 19 Apr 2024 06:00:54 GMT
+Content-Type: application/pkix-cert
+Content-Length: 1645
+Connection: keep-alive
+Last-Modified: Tue, 15 Aug 2023 00:00:00 GMT
+Etag: "a88e76ea98a93c042f36bd0b998fb104f36c4d57"
+Cache-Control: max-age=86400,s-maxage=14400,public,no-transform,must-revalidate
+X-CCACDN-Proxy-ID: scdpinlb4
+X-Frame-Options: SAMEORIGIN
+CF-Cache-Status: HIT
+Age: 10571
+Accept-Ranges: bytes
+Vary: Accept-Encoding
+Server: cloudflare
+CF-RAY: 876aad4f2db7a7b8-DEL
+

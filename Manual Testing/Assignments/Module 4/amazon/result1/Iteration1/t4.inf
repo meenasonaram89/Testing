@@ -1,0 +1,17 @@
+[t4]
+URL3=http://pki.goog/repo/certs/gtsr1.der
+SnapshotXmlFile=snapshot_4.xml
+URL4=http://pki.goog/repo/certs/gts1c3.der
+ContentType=text/html
+StepName=Url: rootca1.cer
+Total=4
+FileName1=t4_3_rootca1.UNK
+FileName3=t2_1_gtsr1.cer
+FileName2=t3_2_r2m01.cer
+RequestHeaderFile=t4_RequestHeader.txt
+FileName4=t1_0_gts1c3.cer
+SaveSnapshotResources=1
+ResponseHeaderFile=t4_ResponseHeader.txt
+RequestBodyFile=t4_RequestBody.txt
+URL1=http://crt.rootca1.amazontrust.com/rootca1.cer
+URL2=http://crt.r2m01.amazontrust.com/r2m01.cer

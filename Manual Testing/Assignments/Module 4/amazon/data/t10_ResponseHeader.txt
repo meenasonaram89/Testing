@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+Content-Type: application/pkix-cert
+Content-Length: 1122
+Connection: keep-alive
+Date: Sat, 24 Feb 2024 05:13:02 GMT
+Last-Modified: Sat, 03 Sep 2022 00:15:13 GMT
+ETag: "f3f422f8d187ac92b91a48cd3a1c5390"
+Cache-Control: max-age=31556952, public
+x-amz-version-id: x8Z0x5qejRwD1yLOZ_aOPBnCgU4g0PMW
+Accept-Ranges: bytes
+Server: AmazonS3
+X-Cache: Hit from cloudfront
+Via: 1.1 b3922a5f4bf6a4cb6f47f868bfe33168.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: DEL54-C3
+X-Amz-Cf-Id: aVLewm-uIX0A4sEJIjssWXm07IwBjtPHdctLYp7nfWpHusHrmY4ksg==
+Age: 4754862
+

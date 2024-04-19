@@ -1,0 +1,10 @@
+[hosts]
+pki.goog=
+crt.r2m01.amazontrust.com=
+crt.rootca1.amazontrust.com=
+crt.rootg2.amazontrust.com=
+crt.r2m03.amazontrust.com=
+x.ss2.us=
+crt.sectigo.com=
+www.gstatic.com=
+cacerts.digicert.com=

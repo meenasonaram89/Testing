@@ -1,0 +1,2 @@
+[Hosts]
+localhost=C:\Users\meena\OneDrive\Documents\VuGen\Scripts\amazon\res\localhost_1.eve

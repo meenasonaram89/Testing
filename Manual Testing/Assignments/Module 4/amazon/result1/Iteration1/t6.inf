@@ -1,0 +1,21 @@
+[t6]
+FileName2=t5_4_rootg2.UNK
+FileName5=t2_1_gtsr1.cer
+FileName4=t3_2_r2m01.cer
+FileName6=t1_0_gts1c3.cer
+RequestBodyFile=t6_RequestBody.txt
+ContentType=text/html
+URL1=http://crt.r2m03.amazontrust.com/r2m03.cer
+URL2=http://crt.rootg2.amazontrust.com/rootg2.cer
+URL3=http://crt.rootca1.amazontrust.com/rootca1.cer
+ResponseHeaderFile=t6_ResponseHeader.txt
+URL4=http://crt.r2m01.amazontrust.com/r2m01.cer
+URL5=http://pki.goog/repo/certs/gtsr1.der
+URL6=http://pki.goog/repo/certs/gts1c3.der
+SnapshotXmlFile=snapshot_6.xml
+RequestHeaderFile=t6_RequestHeader.txt
+SaveSnapshotResources=1
+Total=6
+StepName=Url: r2m03.cer
+FileName1=t6_5_r2m03.cer
+FileName3=t4_3_rootca1.UNK
