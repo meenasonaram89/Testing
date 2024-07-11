@@ -1,0 +1,4 @@
+ Why testers should opt for Selenium and not QTP?
+
+Selenium, however, supports a wide range of programming languages. QTP/UFT test scripts run only on the Windows environment. They cannot be run across all browsers. On the other hand, Selenium is OS independent and allows test scripts to run across all browsers.16 Feb 2023
+
